@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "nome": "Ryan",
+        "email": "ryan.azevedo@edu.senai.br"
+    },
+
+    {
+        "id": 2,
+        "nome": "Goku",
+        "email": "goku@edu.senai.br"
+    },
+
+    {
+        "id": 1,
+        "nome": "Fulano",
+        "email": "fulano@edu.senai.br"
+    },
+
+    {
+        "id": 1,
+        "nome": "carimbo",
+        "email": "carimbo@edu.senai.br"
+    },
+
+    {
+        "id": 1,
+        "nome": "Ana",
+        "email": "Ana@edu.senai.br"
+    }
+]
